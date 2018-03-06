@@ -8,7 +8,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React Change in master yi
+          <h1 className="App-title">Welcome to React Change in 16 one
           </h1>
         </header>
         <p className="App-intro">
